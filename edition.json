@@ -1,0 +1,28 @@
+{
+  "app": "SHARMATRACK",
+  "edition": "logan",
+  "builder": "Logan Construction Group",
+  "builderLogo": "logo-logan.png",
+  "builderLogoStatus": "on-file (wordmark file; Logan NOTES record no photographic logo on file \u2014 wordmark is the on-record builder mark)",
+  "trades": [
+    "HVAC"
+  ],
+  "liveUrl": "https://sharmaelechvac.github.io/sharmatrack-logan/",
+  "repo": "Sharmaelechvac/sharmatrack-logan",
+  "shell": {
+    "macos": "canonical",
+    "skBridge": "pinned"
+  },
+  "shellSource": "~/workspace/sharmatrack-core (edit the shell there, run tools/sync.py \u2014 never fork shell files here)",
+  "houses": [
+    {
+      "dir": "lot-69",
+      "jobId": "lot-69",
+      "address": "16051 Vetta Dr",
+      "city": "Montverde, FL",
+      "trades": [
+        "HVAC"
+      ]
+    }
+  ]
+}
